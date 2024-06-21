@@ -1,0 +1,14 @@
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\bin\Debug\net8.0\secondPRO.exe
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\bin\Debug\net8.0\secondPRO.deps.json
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\bin\Debug\net8.0\secondPRO.runtimeconfig.json
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\bin\Debug\net8.0\secondPRO.dll
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\bin\Debug\net8.0\secondPRO.pdb
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\secondPRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\secondPRO.AssemblyInfoInputs.cache
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\secondPRO.AssemblyInfo.cs
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\secondPRO.csproj.CoreCompileInputs.cache
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\secondPRO.dll
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\refint\secondPRO.dll
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\secondPRO.pdb
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\secondPRO.genruntimeconfig.cache
+C:\Users\nicole\OneDrive\Documents\SecondPRO\secondPRO\obj\Debug\net8.0\ref\secondPRO.dll
